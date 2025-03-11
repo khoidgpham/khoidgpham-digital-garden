@@ -1,0 +1,1 @@
+Nhiều người khi đối diện với công việc việc lách thường đối diện với nỗi sợ khi đối diện với một trang giấy giấy hay black space. Nguyên nhân của việc này có thể đến từ việc có quá nhiều lựa chọn, hoặc thông tin quá tải dẫn tới phản ứng sợ hãi của não bộ.

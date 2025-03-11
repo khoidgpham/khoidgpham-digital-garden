@@ -1,0 +1,5 @@
+
+1. Các hình thức thiền khác nhau phổ biến trong nhiều tôn giáo phương Đông, bao gồm Ấn Độ giáo, Phật giáo và Sikh giáo.
+2. **Thiền siêu việt (TM)** liên quan đến việc thiền với sự tập trung cao độ trong 20 phút hai lần một ngày. Bệnh nhân tim thực hiện TM cải thiện hơn so với nhóm đối chứng về một số chỉ số sức khỏe, bao gồm huyết áp và mức cholesterol (Paul-Labrador et al., 2006).
+3. Thiền lâu dài có thể mang lại những thay đổi cấu trúc trong não giúp duy trì chức năng não trong suốt cuộc đời. Ví dụ, thể tích chất xám thường giảm dần theo tuổi tác, nhưng một nghiên cứu đã phát hiện rằng thể tích này không giảm ở những người lớn tuổi thực hành thiền Zen (Pagnoni & Cekic, 2007).
+4. Những người đã được đào tạo thiền cảm thấy ít buồn hơn so với những người trong nhóm đối chứng không được đào tạo thiền (Farb et al., 2010).

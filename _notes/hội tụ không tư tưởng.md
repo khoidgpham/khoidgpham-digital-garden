@@ -1,0 +1,5 @@
+khi cử trí tìm đến chính trị vì cảm thấy mình được đại diện trước, rồi dần dần chấp nhận quan điểm chính trị của nhân vật đấy, thay vì tìm ủng hộ đến lập trường chính trị của họ. hiện tượng này dễ xảy ra nhất với nhóm cử tri không có quan điểm chính trị rõ ràng nhất quán, với nhiều sự liên kết và có sự kiểm chứng
+
+Nếu 1 chính trị gia có thể thu hút những cử tri không có tư tưởng, và nếu họ đông hơn cử tri có tư tưởng, thì hắn có thể thống trị chính trị bằng hình tượng cá nhân thay vì chính sách thực tế. Một ví dụ điển hình trong ngày này chính là Donald Trump và Elon Musk
+
+Điều quan trọng là "hội tụ không tư tưởng" không chỉ mang tính tiêu cực. Nó có thể khiến cử tri gắn bó với những nhân vật như Ted Cruz, Rob Ford hay Donald Trump, nhưng đồng thời cũng là cách mà FDR, Teddy Roosevelt, Lyndon B. Johnson, Dwight Eisenhower và Fiorello La Guardia, đã vươn lên. Miễn các chính trị gia có tư tưởng (cả dem hay rep) sẵn sàng dấn thân và biết cách sử dụng "lá bài" này, cuộc chơi sẽ công bằng cho tất cả các bên

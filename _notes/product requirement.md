@@ -1,0 +1,1 @@
+Product Requirement được sinh ra trong quá trình [[phát triển sản phẩm]] với vai trò là cầu nối giữa hai phía: người có nhu cầu tạo ra sản phẩm (Business, User và Client) và người tạo ra nó (Dev team). Requirement tốt sẽ cần bằng được trọng trách của cả hai phía, nằm trong khả năng deliver của bên cung cấp và thỏa mãn nhu cầu của bên mong muốn.

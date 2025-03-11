@@ -1,0 +1,1 @@
+một trong những công dụng lớn nhất của viết là hỗ trợ cho việc học, bởi sử dụng chính ngôn từ của mình để diễn đạt mới có thể đảm bảo việc mình thực sự hiểu nó.

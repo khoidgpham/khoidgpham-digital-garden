@@ -1,0 +1,3 @@
+# Cảm xúc tăng cường trí nhớ
+==Những trải nghiệm gắn liền với cảm xúc mạnh mẽ - dù là hạnh phúc, buồn bã hay sợ hãi - thường được ghi nhớ rõ ràng hơn==. Đây là lý do tại sao nhiều người nhớ chính xác họ đang ở đâu khi nghe tin về các sự kiện gây chấn động như thảm họa thiên nhiên hay biến cố lịch sử. 
+[[amygdala]], một cấu trúc [[não]] liên quan đến cảm xúc, đóng vai trò quan trọng trong việc tăng cường khả năng ghi nhớ những trải nghiệm có ý nghĩa cảm xúc.

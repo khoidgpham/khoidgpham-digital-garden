@@ -1,0 +1,1 @@
+Khi ta còn trẻ ta hoàn toàn đầy sức sống tự nhiên điều này khiến cho việc tập trung vào chuẩn bị xuất hiện dễ dàng mỗi khi ta cần. nếu họ còn có tài năng nữa thì rất dễ thành công

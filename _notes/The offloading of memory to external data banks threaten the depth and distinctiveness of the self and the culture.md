@@ -1,0 +1,5 @@
+Khi chúng ta chuyển giao thông tin ra bên ngoài, điều này cho phép ta không phải ghi nhớ nó nữa, nhưng đồng thời cũng tước đi những thông tin tạo ra [[the culture a person influenced by the content and character of that person’s memory |văn hóa của một con người]], và [[kí ức cá nhân là thứ hình thành nên ký ức thể|văn hóa của một cá nhân cũng tạo ra văn hóa của tập thể]]. Điều mang đến một rủi ro về sự mai một về chiều sâu trong văn hóa mỗi cá nhân và tập thể
+
+Richard Foreman từng viết trong bài luận cảnh báo chúng ta rằng, chúng ta từng là những cá thể mang trong mình mình một bản dạng phức tạp và có chiều sâu, nhưng với sự áp lực từ information overload và [[technology of the ‘instantly available"]], chúng ta tiến hóa và thay đổi sang một bản dạng mới, một bản dạng mà ông gọi là “pancake people—spread wide and thin as we connect with that vast network of information accessed by the mere touch of a button.”
+
+Internet, cũng là một loại loại công nghệ giúp chuyển giao thông tin của mỗi cá nhân ra bên ngoài, mang trong nó rủi ro kể phía trên.

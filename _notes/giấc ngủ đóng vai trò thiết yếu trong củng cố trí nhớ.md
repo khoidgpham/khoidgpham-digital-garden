@@ -1,0 +1,3 @@
+# Giấc ngủ đóng vai trò thiết yếu trong củng cố trí nhớ
+Trong khi chúng ta ngủ, đặc biệt là trong giai đoạn giấc ngủ sâu và giấc ngủ REM, ==não bộ xử lý và củng cố những thông tin đã học trong ngày==. Quá trình này, gọi là "tăng cường trí nhớ phụ thuộc vào giấc ngủ", giúp chuyển thông tin từ vùng [[hippocampus]] (nơi lưu trữ tạm thời) đến Cerebral cortex (nơi lưu trữ dài hạn). 
+Nghiên cứu cho thấy thiếu ngủ có thể làm giảm khả năng ghi nhớ và học tập tới 40%.

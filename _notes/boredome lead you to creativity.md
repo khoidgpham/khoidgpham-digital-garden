@@ -1,0 +1,1 @@
+Nghiên cứu của Penn State phát hiện bored test subject có khả năng sử lí vấn đề [[creativity|Sáng tạo]] hơn những người cùng nghiên cứu

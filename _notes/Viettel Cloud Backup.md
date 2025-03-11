@@ -1,0 +1,1 @@
+Dịch vụ này cung cấp cơ chế sao lưu đáng tin cậy cho máy chủ, cơ sở dữ liệu, và ứng dụng, với các tùy chọn lên lịch linh hoạt và khả năng khôi phục nhanh chóng. Bằng cách tự động hóa quá trình sao lưu, dịch vụ này giúp các doanh nghiệp giảm thiểu nguy cơ mất dữ liệu do lỗi người dùng, hỏng hóc phần cứng, hoặc tấn công mạng.

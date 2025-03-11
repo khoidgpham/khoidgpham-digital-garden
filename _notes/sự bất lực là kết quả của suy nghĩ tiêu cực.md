@@ -1,0 +1,1 @@
+suy nghĩ tiêu cực cho ta cảm giác kết quả vượt tầm khả năng kiểm soát của chúng ta, dẫn tới cảm giác của sự bất lực

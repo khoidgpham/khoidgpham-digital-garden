@@ -1,0 +1,5 @@
+---
+tags:
+  - economics
+---
+Natural resource-seeking investment is driven by the right to exploit natural resources, such as oil, minerals. This type of investment seeks resources related to production structure, where inputs from developing countries are used as inputs in the production process in the home country of multinational corporations (MNCs) or sold to the global market. The majority of FDI before the 1960s sought resources and exchanged raw materials from developing countries to acquire manufactured goods produced by industrialized countries, following the traditional exchange model between the North and the South during the colonial period. FDI-seeking resources is primarily limited to areas such as oil, gas, coal, metal ore, and non-metallic minerals (UNCTAD, 2007). The determining factors for Natural resource-seeking FDI include a country's natural resource reserves and global commodity prices.

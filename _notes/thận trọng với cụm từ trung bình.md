@@ -1,0 +1,3 @@
+Andrew Bobinson từng nói "khi đầu của bạn ở trong tủ lạnh và chân bạn đang đút vào cái lò vi ba, nếu đo nhiệt độ trung bình thì mọi thứ vẫn bình thường thôi".  
+
+Nếu chỉ quan tâm tới chỉ số trung bình (average) trong việc phân tích dữ liệu rất dễ khiến người xem bỏ qua nhiều yếu tố khác trong bức tranh tổng thể, vì vậy hãy nên kết hợp cùng với chỉ số khác như mean, phương sai hoặc nhìn vào đồ thị phân bố để có cái nhìn khách quan hơn.

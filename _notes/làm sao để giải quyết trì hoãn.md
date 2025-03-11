@@ -1,0 +1,13 @@
+---
+Tree:
+  - "[[trì hoãn|Trì hoãn]]"
+---
+- **Xác định nguyên nhân**: Hiểu rõ lý do trì hoãn.
+- **Chia nhỏ công việc**: Phân chia nhiệm vụ lớn thành những phần nhỏ hơn.
+- **Đặt mục tiêu cụ thể**: Thiết lập các mục tiêu rõ ràng và dễ theo dõi.
+- Sử dụng kỹ thuật [[pomodoro timer technique]]: Làm việc trong khoảng thời gian ngắn và nghỉ ngơi ngắn.
+- **Loại bỏ sự phân tâm**: Giảm thiểu yếu tố gây xao lãng.
+- **Sử dụng công cụ quản lý thời gian**: Ứng dụng và công cụ như Todoist, Trello, Google Calendar.
+- **Tạo ra một lịch trình**: Lập lịch làm việc chi tiết và tuân thủ nó, nhưng điều này yêu cầu bạn phải có tính kỉ luật ca
+- **Tự thưởng cho bản thân**: Đặt ra phần thưởng sau khi hoàn thành nhiệm vụ.
+- **Tìm kiếm sự hỗ trợ**: Nhờ bạn bè, đồng nghiệp, người thân động viên.Dưới đây là những ý chính để giải quyết việc trì hoãn:

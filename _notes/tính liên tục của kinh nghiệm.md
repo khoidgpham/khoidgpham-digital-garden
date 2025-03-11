@@ -1,0 +1,1 @@
+Trí nhớ đảm bảo tính liên tục trong kinh nghiệm sống. Nếu không có trí nhớ, mỗi khoảnh khắc hiện tại sẽ trở nên hoàn toàn mới mẻ và không liên quan đến những gì đã xảy ra trước đó, khiến chúng ta mất đi cảm giác về sự ổn định và nhất quán trong cuộc sống.

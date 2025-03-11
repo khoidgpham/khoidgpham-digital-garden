@@ -1,0 +1,1 @@
+[[trì hoãn]] có thể nhìn giống như biểu hiện của sự lười nhác, nhưng thức tế những người hay trì hoãn nhất lại là những người perfectionist với nỗi sợ thất bại

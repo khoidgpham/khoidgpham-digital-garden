@@ -1,0 +1,1 @@
+Introvert có khả năng trở thành chuyên gia trong lĩnh vực mà họ đang theo đuổi cao hơn extrovert

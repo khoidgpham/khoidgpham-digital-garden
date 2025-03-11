@@ -1,0 +1,1 @@
+mục tiêu của viết là truyền lại thông tin cho người đọc. Một dấu câu sai ngữ pháp, một cụm thông tin thừa thãi, một cấu trúc không nhất quán, bất kì thứ gì xuất hiện cản trở trong quá trình truyền tài thông tin tới người đọc, đều cần phải được quán triệt và kiểm soát.

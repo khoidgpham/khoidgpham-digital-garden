@@ -1,0 +1,1 @@
+Spranger (1882-1963), nhà tâm lý học Đức, căn cứ vào định hướng giá trị trong hoạt động, chia ra 6 kiểu nhân cách cơ bản: người lý thuyết, người chính trị, người kinh tế, người thẩm mỹ, người vị tha và người tôn giáo

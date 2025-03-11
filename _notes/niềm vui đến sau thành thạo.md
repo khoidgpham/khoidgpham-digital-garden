@@ -1,0 +1,6 @@
+Khi bắt đầu học, hiếm ai nhận được niềm vui ngay %% statement này chưa chắc đã đúng, chính mình cũng có những trải nghiệm vui vẻ khi tiếp xúc với một kĩ năng mới đầu tiên, chỉ sau một thời gian niềm vui này mới biến mất %%. 
+Vì trong quá trình học đầu tiên, não bộ đang phải vận dụng rất nhiều năng lượng (mental effort) để tạo ra những brain-link mới chỗ kĩ năng này, điều này có thể dẫn tới sự mệt mỏi và lo âu do quá tải thông tin và cognitive. 
+
+Nếu có đủ sự kiên nhẫn để vượt qua giai đoạn nay, sau khi bạn đã thực sự master (hoặc adopt) một kĩ năng đó rồi, việc thực thi dần yêu cầu ít năng lượng hơn, khi đó niềm vui bạn đạt được trừ đi sự truggle sẽ trở nên có lợi dương hơn.
+
+đây có thể là một lý do chúng ta [[trì hoãn|trì hoãn]], khi bắt đầu một công việc nào đó, việc đơn thuần chỉ nghĩ tới việc làm đó thôi cũng có thể khiến chúng ta bị cognitive overload, nhưng sau khi thực sự bắt tay vào làm, những lo lắng và mệt mỏi ban đầu sẽ dần tan biết mất và chúng ta sẽ dần dần nhận được niềm vui nhiều hơn  %% nguyên nhân tại sao ta có hành vi trì hoàn %%

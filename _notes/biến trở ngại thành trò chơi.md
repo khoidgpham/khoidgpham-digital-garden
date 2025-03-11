@@ -1,0 +1,1 @@
+bí quyết của những con người đã từng vượt qua những hoàn cảnh khắc nhiệt gần như bất khả thi là họ biến những hoàn cảnh khắc nhiệt, khổ sở đó trở thành trò chơi và thử thách bản thân mình vượt qua nó (Joe Simpson)

@@ -1,0 +1,1 @@
+lí do bởi income có sự biến động lớn và bỏ qua nhu cầu tiết kiệm của con người. Deaton (1998) cho rằng [[tiêu thụ là chỉ số đo lường mức sống của hộ gia đình]] tốt hơn

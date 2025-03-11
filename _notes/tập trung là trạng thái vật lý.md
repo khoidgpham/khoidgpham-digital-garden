@@ -1,0 +1,2 @@
+Lúc bạn tập trung, não bộ chuyển sang một trạng thái khác 
+Một số thí nghiệm gần đây với chuột chỉ ra rằng việc tập trung tạo ra một chuỗi phản ứng mạng lưới bên trong não bộ. Sự chú ý bắt đầu từ frontal lobes của cerebral cortex, khiến vùng neuron của cortex gửi tín hiệu tới neuron ở vẫn midbrain tạo ra dopamine, khi domain tràn vào synapse ở hippocampus, nó bắt đầu hoạt động [[memory consolidation]]

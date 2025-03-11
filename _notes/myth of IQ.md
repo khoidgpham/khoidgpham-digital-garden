@@ -1,0 +1,5 @@
+The fynn effect, hiện tượng về số điểm của bài kiểm tra IQ trung bình đang có xu hướng tăng đều ở khắp nơi trên thế giới kể từ sau WW2. 
+
+Hiện tượng này được sử dụng để tranh luận rằng trí tuệ phổ thông của chúng ta không giảm đi từ khi internet xuất hiện. 
+
+Tuy nhiên chính cha để của hiện tượng này cũng lập luận rằng nhận định trên không có nhiều giá trị trong việc chứng minh sự phát triển của trị tuệ phổ thông. Vì IQ chỉ là bài kiểm tra đánh giá năng lực giải quyết vấn đề về tư duy trừu tượng và tư duy không gian của con người, không phải thang đo đánh giá tất cả về trí thông mình. [[The Shallow, Carr Nicholas]] cũng dẫn thêm những bằng chứng khác khẳng định, ví dụ như điểm trung bình SAT của Mỹ những năm gần đây không có sự thay đổi, thậm trí đang có dấu hiệu giảm. Kết luận rằng, chúng ta không hẳn đã thông minh hơn tổ tiên của chúng ta, chúng ta chỉ đơn thuần thông minh theo một cách khác thôi

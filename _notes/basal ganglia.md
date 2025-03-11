@@ -1,0 +1,2 @@
+[[basal ganglia]] :: A cluster of subcortical nuclei deep to cerebral hemispheres. The largest component of the basal ganglia is the corpus striatum which contains the caudate and lenticular nuclei (the putamen, globus pallidus externus, and internus), the subthalamic nucleus (STN), and the substantia nigra (SN).
+<!--SR:!2025-02-26,2,205-->

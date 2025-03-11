@@ -1,0 +1,3 @@
+Cụm từ bắt nguồn từ tiếng Pháp, hàm ý chỉ một ai đó mang một góc nhìn về các vấn đề trong chính trị, xã hội hay văn hóa theo một cách [[political correct]]hoặc conventional, nhưng không thực sự dành thời gian để đối chiếu những góc nhìn đó một cách phản biện để có những lý do và lập luận riêng mình. 
+
+Ví dụ trong một cuộc tranh luận về chủ đề chiến tranh giữa Palestine - Israel, sẽ có rất nhiều người nhảy vào đứng ra ủng hộ Palestine, một góc nhìn có thể cho là đúng đắn về chính trị, nhưng chính bản thân họ chưa hề tìm hiểu thêm bất kì thông tin nào về trận chiến này, có thể nói họ có thể nói là Bien pensant. 

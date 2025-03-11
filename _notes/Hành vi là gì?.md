@@ -1,0 +1,1 @@
+Hành vi mô tả tất cả các hoạt động có thể quan sát được của con người (hoặc động vật), ví dụ như ăn uống, giao phối v.v.

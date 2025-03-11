@@ -1,0 +1,3 @@
+Michael Peples nhờ vào đặc tính "kì quặc" của cơ thể mình, tay dài bất thường so với chân, lòng bàn tay và chân quá to so với người bình thường. Chính vì thế lại giúp anh trở thành vận động viên xuất sắc trong lĩnh vực bơi lội.
+
+Có một câu nói cổ trong Thụy Điển rằng gần như mọi đứa trẻ đều là bồ công anh nhưng sẽ có những đứa giống như hoa Họ Lan. Hoa bồ công anh gần như có thể sống ở bất kì môi trường nào, còn hoa họ lan thì rất nhạy cảm với môi trường xung quanh nó, nó sẽ chết nếu không tìm được môi trường phù hợp, nhưng tìm được đúng môi trường, hoa họ lan sẽ nở rộ rực rỡ đẹp hơn mọi loài bồ công anh khác.

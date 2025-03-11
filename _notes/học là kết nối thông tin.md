@@ -1,0 +1,1 @@
+việc học tạo sự kết nối những thông tin mình đang học được với những kiến thức mình đã biết trước đây

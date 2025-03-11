@@ -1,0 +1,3 @@
+Thuật ngữ để mô tả các dạng hành vi cảm xúc cực đoan ở phụ nữ, từng được cho là do các vấn đề từ tử cung (Hippocrates).
+
+Khi được nghiên cứu sâu bởi Martin Charcot (1825-1893), ông tuyên bố rằng hành vi này là loại bệnh thể chất, có tính phổ quát, có tính chất di truyền và đi theo quy luật nhất định. Tuy nhiên cách nhà học cùng thời đều bác bỏ quan điểm của ông. Trừ Sigmund Freud, vốn là học trò của Charcot.

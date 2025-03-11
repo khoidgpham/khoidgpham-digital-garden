@@ -1,0 +1,14 @@
+---
+tags:
+  - psychology
+---
+- Tâm lý sinh học: 
+- Tâm lý học phát triển 
+- **Tâm lý học nhận thức**: Nghiên cứu tập trung vào cách năng lực tâm thần như cảm gíac và tri giác, sự học, trí nhớ, tư duy, sự nhận thức, trí tuệ và sáng tạo
+	- Engineering psychology: ngành trong tâm lý tập trung vào các yếu tố con người trong việc sử dụng các trang thiết bị và giúp những nhà thiết kế tạo ra những sản phẩm tốt hơn
+- Tâm lý học nhân cách: Nghiên cứu sự giống nhau và khác biệt giữa con người
+- Tâm lý học trị liệu / tham vấn: nghiên cứu những vấn đề về rối loạn tâm lý và giúp những người khác vượt qua những rối loạn này
+- Tâm lý học giáo dục
+- Tâm lý học xã hội
+- Tâm lý học tổ chức: nghiên cứu năng lực lãnh đạo, căng thẳng, sự cạnh tranh, mức lương và ác yếu tố khác ảnh hưởng tới sự hiệu quả, hiệu suất, và sự hài lòng của nhân viên làm việc bên trong tổ chức 
+- Tâm Lý Lượng: sử dụng các công cụ xác suất thống kế để áp dụng vào các nghiên cứu trong tâm lý học.

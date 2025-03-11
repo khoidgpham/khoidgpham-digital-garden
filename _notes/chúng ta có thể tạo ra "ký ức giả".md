@@ -1,0 +1,2 @@
+# Chúng ta có thể tạo ra "ký ức giả"
+Con người có thể phát triển những ký ức sống động về những sự kiện chưa từng xảy ra, đặc biệt khi được gợi ý hoặc tưởng tượng nhiều lần. Trong các thí nghiệm nổi tiếng, các nhà nghiên cứu đã thành công trong việc tạo ra ký ức giả ở 30% người tham gia về những sự kiện như bị lạc trong trung tâm thương mại khi còn nhỏ, mặc dù sự kiện này chưa từng xảy ra.

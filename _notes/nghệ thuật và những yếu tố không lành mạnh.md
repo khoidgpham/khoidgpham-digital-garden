@@ -1,0 +1,1 @@
+Murakami thừa nhận hoạt động nghệ thuật chứa đựng các yếu tố không lành mạnh và phản xã hội, Ông còn cho rằng việc viết tiểu thuyết là một hoạt động không lành mạnh bởi trong quá trình viết sẽ sản sinh ra nhiều chất độc mà tiểu thuyết ra cần nhận thức và sản sinh ra Nguyễn kháng thể nó

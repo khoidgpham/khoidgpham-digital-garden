@@ -1,0 +1,3 @@
+- **Tập trung vào người dùng**: User stories giúp nhóm phát triển tập trung vào nhu cầu và mong muốn của người dùng cuối.
+- **Linh hoạt**: User stories có thể dễ dàng thay đổi và điều chỉnh khi có sự thay đổi yêu cầu hoặc khi có thêm thông tin mới.
+- **Giao tiếp tốt hơn**: User stories thúc đẩy giao tiếp giữa các bên liên quan, giúp đảm bảo rằng tất cả mọi người đều hiểu rõ yêu cầu và mục tiêu.

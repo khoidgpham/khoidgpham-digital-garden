@@ -1,0 +1,5 @@
+Rất nhiều nghiên cứu để được tổ chức để xác định các yếu tố ảnh hưởng tới sự bất bình đẳng trong thu nhập. Trong số đó có economic, social, demographic, and political, i.e., economic growth, tax rate, inflation, education, unemployment, population growth, institutional reforms, law and order situations, etc. [[FDI và income unequality]] cũng là mối quan hệ đang dành được nhiều sự quan tâm trong thời gian gần đây
+
+Nghiên cứu của Hasseb M.[^1] xác định tác động của globalization và human capital đến income inequality .
+
+[^1]: Haseeb M., Suryanto T., Hartani N. H., & Jermsittiparsert K. (2020). Nexus between globalization, income inequality and human development in Indonesian economy: Evidence from application of partial and multiple wavelet coherence. Social Indicators Research, 147(3), 723–745.

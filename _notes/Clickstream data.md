@@ -1,0 +1,1 @@
+Một dòng click/chọn của người dùng khi đi qua website hoặc product qua thời gian. Tính qua một session. Một dạng dự liệu thuộc Behavior Data

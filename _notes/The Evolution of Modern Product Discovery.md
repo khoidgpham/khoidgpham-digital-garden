@@ -1,0 +1,7 @@
+Trong thời kì đầu tiên trong phát triển phần mềm, business leader là người phụ trách phần discovery cho sản phẩm. Tuy nhiên discovery chỉ được thực hiện một lần một năm, với timeline cố định được đưa cho engineering team, Project Manager là người quản lí time line. Quy trình phát triển này được được gọi là Delivery-Focus Product Team.
+
+2001 đánh dấu sự ra đời của Agile manifesto, Những người tạo ra [[Agile]] khuyến nghị cho vòng phát triển phần mềm ngắn hơn và customer feedback đều đặn hơn. Đề xuất một vòng phát triển với nhịp độ ổn định đều đặn, thay vì bắt buộc phải bám theo timeline. Ủng hộ cho sự linh hoạt tối đa - khả năng thay đổi dựa trên customer feedback nhanh chóng và dễ dàng 
+
+Những năm sau đó, [[Scrum]] và Kanban là hai mô hình được ra đời đi theo Agile, sử dụng để quản lí công việc delivery. Cùng lúc với đó, sự phát triển của user research và user experiment design cũng được nổi trội lên. Mặc dù đi theo Agile team đã đặt được cyle và customer feedback ngắn hơn nhưng vẫn gặp khó khăn trong việc thuyết phục business owner từ bỏ ý tưởng ban đầu của họ. Team product thường đo lường kết quả dựa trên công việc họ đã deliverd, không phải đến từ outcome (lường người sử dụng hoặc outcome mong muốn đạt được) 
+
+Dù vậy, việc rút ngắn các vòng release sản phẩm và có khả năng đo lường kết quả thường xuyên hơn cũng giúp đội sản phẩm aware được hơn về những impact của họ, Từ việc delivery ngắn hơn, quá trình discovery cũng **trở nên ngắn hơn**

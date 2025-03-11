@@ -1,0 +1,1 @@
+Nghiên cứu của Nigel Cross khi so sánh kiến thức, kĩ năng và năng lực của designer giỏi và novice, phát hiện ra rằng Designer giỏi có khả năng cùng lúc mở rộng cả [[solution space]] và [[Problems Space]]

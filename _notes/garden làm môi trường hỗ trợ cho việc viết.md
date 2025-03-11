@@ -1,0 +1,1 @@
+sau một thời gian viết trên vault của mình, điều lớn nhất khiến mình chưa hài lòng là những note mà mình viết ra .. vẫn quá thô

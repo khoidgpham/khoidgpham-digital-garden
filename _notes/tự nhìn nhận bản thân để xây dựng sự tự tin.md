@@ -1,0 +1,1 @@
+nếu ta hiểu rõ về chính mình, ta sẽ có sự bình tĩnh hơn khi đối mặt mới khó khăn và thách thức

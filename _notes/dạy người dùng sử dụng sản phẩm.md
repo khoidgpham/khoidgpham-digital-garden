@@ -1,0 +1,1 @@
+Hiểu về [[cách chúng ta học]] có thể áp dụng được [[thiết kế sản phẩm]], việc dạy người dùng cách sử dụng bằng việc đưa ra ví dụ, lặp lại và reinforcement để cổ vũ hành vi là rất cần thiết. Hành vi lặp lại là công cụ rất hiểu quả để tăng tính dễ sự dụng, tính dễ nghiện và engagement. Nó cho phép người dùng adopt và sử dụng kĩ năng mới này với các công việc khó hơn.

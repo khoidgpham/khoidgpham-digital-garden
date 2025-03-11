@@ -1,0 +1,1 @@
+Định nghĩa :: hành vi được tăng cường nếu được đáp ứng bởi một phần thưởng hoặc kết quả tốt, trong khi hành vi bị suy yếu nếu bị đáp ứng bởi một hình phạt hoặc kết quả không mong muốn.

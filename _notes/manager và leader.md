@@ -1,0 +1,3 @@
+thông thường chúng ta thường hai nghĩ rằng 2 khái niệm này có sự tương đồng với nhau, trên thực tế hai khái niệm này hoàn toàn có thể tách biệt được với nhau: manager là ==một vị trí cụ thể,== leadership là ==một kĩ năn==g. có những vị trí chỉ cần quản lý không cần lãnh đạo, và có cả những người lãnh đạo thành công không cần đến kĩ năng quản lý 
+
+> "What make a good leader is that they eschew the spotlight in favor of spending time and energy to do waht they need to do to support and protect their people", Simon Ninek

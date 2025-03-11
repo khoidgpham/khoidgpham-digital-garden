@@ -1,0 +1,1 @@
+Quản lý sản phẩm là quá trình khám phá, xác định những vấn đề cẩn giải quyết, cho đến xây dựng, thử nghiệm, tối ưu những giải pháp nhắm đáp ứng được các mục tiêu, chiến lược sản phẩm cho kinh doanh, doanh nghiệp" - Tú Platform
