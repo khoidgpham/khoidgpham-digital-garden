@@ -1,1 +1,0 @@
-một ví dụ có thể thấy như Minecraft, Terraria, Factoria, mọi thành phần trong game đối với người đều đều chỉ giống như nguồn tài nguyên chỉ đang chờ khai thác

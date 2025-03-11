@@ -1,3 +1,0 @@
-Google từng có có tham vọng muốn xây dựng ra thư viện điện tử lớn nhất thể giới: trở thành nơi chưa đựng phiên bản điện tử của tất cả mọi cuốn sách trên thế giới. Khiến cho mọi thông tin có thể dễ dàng khám phá và tìm kiếm hơn.
-
-Tuy nhiên, một tác dụng phụ vủa việc điện tử hóa tất cả sách vở này mà Google không nhận thấy đó là việc khiến cho cuốn sách bị phân rã về mặt nội dung. Người đọc sẽ không còn đọc từ đầu đến cuối nội dung của một cuốn sách như đúng dụng ý của tác giả nữa/ 

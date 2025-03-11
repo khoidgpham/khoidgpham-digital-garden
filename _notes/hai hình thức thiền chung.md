@@ -1,3 +1,0 @@
-# Hai hình thức thiền chung:
-- **Thiền tập trung** liên quan đến việc tập trung sự chú ý vào một điều, chẳng hạn như một kiểu thở, một hình ảnh tinh thần, hoặc một cụm từ cụ thể (đôi khi được gọi là mantra).
-- **Thiền chánh niệm** liên quan đến việc để cho các suy nghĩ trôi chảy tự do, chú ý đến chúng nhưng cố gắng không phản ứng với chúng. Trong loại thiền này, người ta nghe nội dung của giọng nói bên trong của họ nhưng cho phép các suy nghĩ trôi từ chủ đề này sang chủ đề khác mà không kiểm tra ý nghĩa của chúng hoặc phản ứng với chúng. Thiền chánh niệm cũng là cơ sở cho liệu pháp nhận thức dựa trên chánh niệm, giúp khách hàng trở nên nhận thức hơn về những suy nghĩ và cảm xúc tiêu cực của họ và thoát khỏi suy nghĩ trầm tư thông qua thiền.

@@ -1,1 +1,0 @@
-đặc biệt trong đó có FDI (Herzer et al., 2014; Antras et al., 2017)

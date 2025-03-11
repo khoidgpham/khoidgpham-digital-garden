@@ -1,1 +1,0 @@
-hippocampus, một phần của não trước đảm nhiệm việc lưu giữ thông tin, ngôn ngữ, hình thành ký ức dài hạn và khả năng định hướng trong không gian

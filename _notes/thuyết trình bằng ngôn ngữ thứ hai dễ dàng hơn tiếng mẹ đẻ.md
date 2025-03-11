@@ -1,1 +1,0 @@
-Trong cuốn sách tôi nói gì khi nói về chuyện chạy bộ, Murakami thừa nhận rằng ông thích sử dụng tiếng anh chưa hoàn chỉnh của mình để diễn thuyết trước khán giả hơn dùng tiếng Nhật. Bởi ông nói rằng khi sử dụng tiếng Nhật ông dễ dàng bị chim đắm vào trong biển từ của mình trong

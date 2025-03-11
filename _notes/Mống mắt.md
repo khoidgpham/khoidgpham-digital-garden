@@ -1,1 +1,0 @@
-một cơ tròn, quyết định màu sắc của mắt và kiểm soát kích thước của [[Đồng tử]]. 

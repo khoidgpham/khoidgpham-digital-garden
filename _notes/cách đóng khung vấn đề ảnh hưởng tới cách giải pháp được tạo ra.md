@@ -1,1 +1,0 @@
-Nghiên cứu của David Janssen với [[Ill-structured problem]]-solving

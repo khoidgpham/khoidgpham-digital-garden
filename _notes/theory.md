@@ -1,1 +1,0 @@
-Định nghĩa :: A model of interconnected ideas or concepts that explains what is observed and makes predictions about future events

@@ -1,4 +1,0 @@
-# Học tập là trải nghiệm và thực hành
-Một điều mình học được từ [[Learning How To Learn, Barbara Okaley]] đấy là sự thực hành giống như thức ăn giúp liên tục củng hộ cho liên kết não bộ của mình trở nên chắc khỏe hơn mỗi ngày, mình nghĩ đối với việc học thuần thúy thì điều này đươc phản ánh ở trong active recall và viết lách. Ngoài ra tập thể dục cũng tốt cho khả năng ghi nhớ và tư duy nữa, cái 
-
-Khi nhắc đến viết lách, mình nhận thấy rằng một vấn đề mình gặp phải là mặc dù mình đã đọc nhiều nhưng dường mình rất khó để mình viết ra được thứ gì đó. Vấn đề nằm ở đâu? Liệu khả năng tuy duy của mình đang bị hạn chế, hay rằng là bỡi những thứ mình đọc chỉ thuần thúy là kiến thức, mình không thực hành, áp dụng vào thực tiễn để nhận được phản hồi và đúc kết ra được **bài học của riêng mình**? 

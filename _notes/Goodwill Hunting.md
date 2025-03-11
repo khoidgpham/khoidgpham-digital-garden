@@ -1,3 +1,0 @@
-
-> [!NOTE] Recap
-> Bộ phim kể về Goodwill, một chàng có bộ óc thiên tài làm lao công ở đại MIT. Vì lớn lên mồ côi bố mẹ thiếu đi tình yêu thương từ mọi người, anh ta lớn lên với góc nhìn tiêu cực về cuộc sống, nảy sinh ra những hành vi bạo lực và thù địch với những người xung quanh. Sau một lần được giáo sự đại học Toán nhận ra năng lực phi thường của mình, anh được bão lãnh ra khỏi tù với điều kiện phải gặp nhà tham vấn trị liệu mỗi tuần trong suốt thời gian quản thúc. Sau nhiều buổi gặp bất thành, này anh gặp được [ ], một người bạn của giáo sự dạy Toán. Chính ông đã giúp Goodwill dần mở lòng mình ra hơn, thay đổi để có được cuộc sống và tình yêu tốt đẹp hơn.

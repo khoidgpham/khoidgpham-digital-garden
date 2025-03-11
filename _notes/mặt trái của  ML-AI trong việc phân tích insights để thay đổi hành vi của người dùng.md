@@ -1,2 +1,0 @@
-Cho dù công cụ ML/[[Artificial Intelligence|AI]] là một phương pháp không thể thiếu trong bộ toolkits của Data Scienctist. ML/AI chỉ tập trung chủ yếu vào giải quyết bài toàn prediction. 
-Nhưng không đem lại giải thích về mối tương quan và nguyên nhân trả lời cho sự dự đoán đó.

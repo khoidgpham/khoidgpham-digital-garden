@@ -1,1 +1,0 @@
-An altered state of [[consciousness]] where people become completely absorbed in what they are doing, and is experienced as a positive state

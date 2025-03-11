@@ -1,1 +1,0 @@
-Học có chủ định hay là hoạt động học là sự tiếp thu tri thức, biến đổi hành vi có mục đích đặt ra từ trước. Hoạt động học là một hoạt động có đối tượng là tri thức, kỹ năng, kỹ xảo tương ứng. Hoạt động này hướng vào làm phát triển trí tuệ, năng lực người học, có tính chất tái tạo, diễn ra theo cơ chế lĩnh hội được điều khiển một cách có ý thức, và gắn chặt với hoạt động dạy.

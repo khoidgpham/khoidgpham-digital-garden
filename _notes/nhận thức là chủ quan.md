@@ -1,1 +1,0 @@
-không có cách nào để biết và so sánh liệu trải nghiệm nhận thức của hai con người có giống nhau hai không, kể các việc dùng gắn nhãn để mô tả nhận thức (hai con người đều dùng màu đỏ để mô tả thứ họ nhìn thấy nhưng hoàn toàn có thể 1 người đang nhìn ra màu khác)

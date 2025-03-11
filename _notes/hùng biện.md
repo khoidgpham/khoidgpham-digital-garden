@@ -1,1 +1,0 @@
-chiến lược viết dùng để thuyết phục người nghe bằng việc nghe thuyết phục thay vì dựa trên những lý luận thực sự, ví dụ như sử dụng những từ buzzword

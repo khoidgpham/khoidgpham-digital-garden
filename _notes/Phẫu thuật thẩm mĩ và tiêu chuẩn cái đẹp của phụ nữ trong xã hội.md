@@ -1,1 +1,0 @@
-Trong bối cảnh hội nhập, cùng với các hoạt động quảng bá của các công ty làm đẹp nước ngoài đã mang tới tiêu chuẩn cái đẹp phương Tây đến với người Việt Nam. Và phẩu thuật thẩm mĩ cho phép họ theo đuổi những tiêu chuẩn đó

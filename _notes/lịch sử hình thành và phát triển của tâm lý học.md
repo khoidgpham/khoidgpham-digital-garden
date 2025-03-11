@@ -1,4 +1,0 @@
-- Thời cổ đại: Các nhà triết học như Khổng Tử, Socrates, Aristotle đã có những tư tưởng sơ khai về tâm lý con người.
-- Thế kỷ XVII - XVIII: Nhiều quan điểm triết học về tâm lý xuất hiện, như [[Thuyết nhị nguyên]] của Descartes hay chủ nghĩa duy vật của Feuerbach.
-- Cuối thế kỷ XIX: Wilhelm Wundt thành lập phòng thí nghiệm tâm lý đầu tiên vào năm 1879, đánh dấu sự ra đời của tâm lý học như một khoa học độc lập.
-- Thế kỷ XX: Xuất hiện nhiều trường phái tâm lý học khác nhau như [[tâm lý học hành vi|Tâm lý học hành vi]], [[Psychoanalysis]], [[tâm lý học nhận thức]] , [[tâm lý học xã hội]].

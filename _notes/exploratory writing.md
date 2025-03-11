@@ -1,1 +1,0 @@
-là loại viết sử dụng để cho phép chúng ta khám phá được ra những gì định nói. Khi bắt đầu viết loại này chúng ta thường không có bất kì quyết định nào ban đầu cả, giống như một hàng trình tự khám phá chính mình. Ví dụ của exploraty writing là [[viết nhật kí]] v.v

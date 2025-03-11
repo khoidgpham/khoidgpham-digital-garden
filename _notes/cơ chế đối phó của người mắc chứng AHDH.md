@@ -1,1 +1,0 @@
-Quan sát thường thấy về phản ứng của những người mắc chứng AHDH với áp lực của việc ưu tiên và tổ chứng thông tin đó là phát triển ra chiến lược đối phó, ví dụ như [[DOOM spaces]]

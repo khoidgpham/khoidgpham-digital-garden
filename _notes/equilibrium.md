@@ -1,1 +1,0 @@
-là trạng thái mà tất cả cá thể trong hệ thống cho rằng họ không thể hưởng được lợi thêm đến từ việc thay đổi hành vi của họ (hay nói cách khác là tất cả đều đã được [[optimization]] hết khả năng)

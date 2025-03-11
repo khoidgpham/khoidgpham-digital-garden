@@ -1,3 +1,0 @@
-Khi chúng ta già đi, không phải tất cả các loại trí nhớ đều suy giảm như nhau. [[Trí nhớ tường minh]] (ghi nhớ có ý thức các sự kiện và kiến thức) thường bị ảnh hưởng nhiều hơn so với [[trí nhớ ẩn]] (như kỹ năng đi xe đạp). [[Trí nhớ từng trải]] (sự kiện cá nhân) giảm sút nhiều hơn so với [[trí nhớ ngữ nghĩa]] (kiến thức chung). Hiểu biết về những thay đổi này giúp phát triển các chiến lược bù đắp hiệu quả cho người cao tuổi.
-
-Trí nhớ con người, với tất cả đặc điểm phức tạp của nó, vừa là công cụ tuyệt vời giúp chúng ta học hỏi và thích nghi, vừa là nền tảng cho bản sắc cá nhân thông qua việc lưu giữ những trải nghiệm và kiến thức định hình nên con người chúng ta.

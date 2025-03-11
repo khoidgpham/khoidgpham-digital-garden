@@ -1,1 +1,0 @@
-Bởi [[bản chất của ý chí]], thay vào đó có thể sử dụng môi trường để tác động để khả năng tự kiểm soát của bản thân

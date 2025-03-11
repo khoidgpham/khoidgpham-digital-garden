@@ -1,6 +1,0 @@
----
-aliases:
-  - lens
-tags:
-  - biology
----

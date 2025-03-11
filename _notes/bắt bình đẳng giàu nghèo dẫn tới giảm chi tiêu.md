@@ -1,1 +1,0 @@
-khi [[wealth-less]] sở hữu ít thứ hơn [[wealthy]] sở hữu càng nhiều hơn, dẫn tới việc wealthless phải chi hầu hết thu nhập của họ cho chi tiêu và wealthy gần như không còn phải chi tiêu & hoặc tỉ lệ chi tiêu trên thu nhập của họ rất ít. điều này sẽ dần tới tổng chi tiêu cho cả nền kinh tế bị thậm hụt

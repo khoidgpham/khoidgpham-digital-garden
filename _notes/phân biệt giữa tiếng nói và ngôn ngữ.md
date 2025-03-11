@@ -1,3 +1,0 @@
-# Phân biệt giữa tiếng nói và ngôn ngữ
-
-Cần phân biệt giữa khái niệm "tiếng nói" và "ngôn ngữ". Tiếng nói là một hệ thống các ký hiệu từ ngữ có chức năng là phương tiện giao tiếp, công cụ tư duy, là đối tượng nghiên cứu của Ngôn ngữ học. Trong khi đó, ngôn ngữ là quá trình mỗi cá nhân sử dụng một thứ tiếng nào đó để giao tiếp, là sự giao tiếp bằng tiếng nói, và là đối tượng nghiên cứu của Tâm lý học[5](https://hoc247.net/tam-ly-hoc-dai-cuong/bai-3-ngon-ngu-va-nhan-thuc-l7847.html).

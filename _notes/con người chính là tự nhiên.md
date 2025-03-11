@@ -1,1 +1,0 @@
-họ cho rằng con người là giống loài cao thượng hơn tất cả, những thứ gì không phải con người chỉ đơn thuần là công cụ phục vụ mục đích cho chính mình ([[anthropocentrism]])

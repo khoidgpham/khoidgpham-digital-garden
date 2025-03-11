@@ -1,1 +1,0 @@
-Tư duy ám chỉ các hoạt động về tâm lý. Ví dụ như trải nghiệm về các giác quan (thấy, ngửi, nếm, nghe chạm) với thế giới. Tư duy còn chịu trách nghiệm về trí nhớ, suy nghĩ và cảm xúc. Hoạt động về tâm lý là kết quá của quá trình sinh học trong não bộ

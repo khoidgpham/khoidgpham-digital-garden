@@ -1,1 +1,0 @@
-Murakami ví dụ sự tập trung giống như mình đang nín thở và [[sự kiên trì]] thì giống như mình thở chậm vậy. Cần biết khi nào cần nín thở và khi nào thì thở chậm để có thể duy trì cuộc sống lâu dài

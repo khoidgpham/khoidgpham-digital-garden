@@ -1,1 +1,0 @@
-Một số ví dụ thực tiễn của việc trở nên hiệu quả hơn khi trở nên bất tổ chức: [[amazon’s ‘Chaotic Storage’]]

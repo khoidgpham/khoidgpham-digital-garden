@@ -1,1 +1,0 @@
-capital flow được cho là có tác động tích cực đến với [[economic growth]], Technological Progress

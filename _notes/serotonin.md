@@ -1,2 +1,0 @@
-[[serotonin]] ::: A monoamine [[neurotransmitter]] important for a wide range of psychological activity, including emotional states, impulse control, and dreaming.
-<!--SR:!2025-02-06,2,245!2025-02-24,1,188-->

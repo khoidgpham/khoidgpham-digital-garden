@@ -1,1 +1,0 @@
-midbrain là định khu nằm trong [[brainstem|cuống não]] phục vụ nhiều công năng, bao gồm trao đổi thông tin giữa cột sống và [[cerebellum]]. Phần quan trọng nhất trong midbrain là PAG( phần chất xám), đóng góp tới giảm đau, điều tiết nhịp tim, huyết áp và các hoạt động tự động khác.

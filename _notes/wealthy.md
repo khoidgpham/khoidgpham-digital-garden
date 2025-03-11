@@ -1,1 +1,0 @@
-wealthy là một trong những nhóm nhỏ sở hữu một phần tài sản khổng lồ, và số tài sản này có năng lực tạo ra thu nhập từ tài sản cho họ (dưới dạng rent, profit, dividends và interest), nếu muốn họ vẫn có thể đi làm để tạo ra work income, hai loại thu nhập này kết hợp vào lớn đến giúp họ đẩy phần lớn thu nhập đó vào trong tài khoản tiết kiếm, hoặc sử dụng số đó để mua thêm tài sản

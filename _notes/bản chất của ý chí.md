@@ -1,1 +1,0 @@
-nghiên cứu của (Baumeister, Bratslavsky, Muraven, and Tice, 1998; Muraven, Tice, and Baumeister, 1998; Schmeichel, Vohs, and Baumeister, 2003; Moller, 2006) về chủ để "[[ego depletion]]", kết luận rằng **ý chí là một dạng năng lượng tiêu tan nhanh chóng và không có khả năng cái thiện về lâu dài**,  tuy nhiên kết luận thực sự vẫn chưa rõ ràng

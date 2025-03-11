@@ -1,1 +1,0 @@
-nghiên cứu của Teresa Amabile chỉ ra rằng *điều số một* khi được hỏi về thứ quan trọng nhất trong công việc của mọi người khi được hỏi chính là "**meaningful work**"

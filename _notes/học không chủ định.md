@@ -1,1 +1,0 @@
-Học không chủ định là sự tiếp thu tri thức, biến đổi hành vi không có mục đích đặt ra từ trước. Kết quả thu được thường là những kinh nghiệm tự nhiên, nhẹ nhàng, thoải mái nhưng hiệu quả không cao, tốn nhiều thời gian, và chỉ đem lại những tri thức tiền khoa học, rời rạc, không hệ thống.

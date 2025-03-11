@@ -1,3 +1,0 @@
-Lời tiên tri của Socrates về văn hóa đọc có thể sai, nhưng cái lo ngại của ông về việc công nghệ tước đi giá trị của sự ghi nhớ vẫn còn có tác dụng, đặc biệt là trong thời điểm internet bây giờ.
-
-Nhiều người luận điểm rằng internet giúp chúng ta giải thoát nguồn tài nguyên của não bộ khỏi những việc tốn nhiều năng lượng, để tập trung vào những công việc có ý nghĩa hơn (high-reason thinking), giống như máy tính. Nhưng trên thực tế việc so sánh song song này là không đúng, internet thực chất lại đặt nhiều áp lực hơn vào working memory của não bộ, và ngăn cản hoạt động chuyển hóa học tập sang long-term memories

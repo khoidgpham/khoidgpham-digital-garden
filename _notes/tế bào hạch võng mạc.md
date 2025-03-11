@@ -1,4 +1,0 @@
----
-aliases:
-  - ganglion cells
----

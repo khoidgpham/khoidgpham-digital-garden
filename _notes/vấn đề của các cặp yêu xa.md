@@ -1,1 +1,0 @@
-nhiều cặp đôi yêu xa phần lớn thời gian trao đổi qua tin nhắn, biết được [[điều kiện cho tình yêu lâu dài]], nhưng [[ngôn ngữ chỉ đóng một phần nhỏ trong thông tin giao tiếp]], điều này thường dẫn tới xung đột do miscommunication

@@ -1,4 +1,0 @@
-Nhiều người cho rằng self-discipline sẽ xuất hiện ở những người có will power lớn. Tuy nhiên will power là một dạng tài nguyên có giới hạn và có thể cạn kiệt qua thời gian và không có cách nào để cải thiện nó về mặt lâu dài[^1]. Theo nghiên cứu của Thalerm[^2], yếu tố mối trường ảnh hưởng tới khả năng kỉ luật của con người hơn chúng ta nghĩ. Vì thế nếu bạn có thể tạo dựng được môi trường hoàn hảo để bắt bản thân làm việc mà chẳng vận dụng đến ý chí, đó có thể là một dấu hiệu tốt.
-
-[^1]: Baumeister, Bratslavsky, Muraven, and Tice, 1998; Muraven, Tice, and Baumeister, 1998; Schmeichel, Vohs, and Baumeister, 2003; Moller, 2006
-[^2]: Thaler, 2015, ch. 2

@@ -1,1 +1,0 @@
-Khác với [[data-driven]] và [[data-informed]]. Data aware là khả năng nhận thức và có một bức tranh hoàn chỉnh về dữ liệu, các phương pháp nghiên cứu và thiết kế nghiên cứu để hỗ trợ trong việc giải quyết vấn đề

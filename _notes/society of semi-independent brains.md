@@ -1,3 +1,0 @@
-khái niệm cho rằng [[não bộ|não]] không phải một cơ quan toàn thể thống nhất, mà được cấu tạo bởi các cơ quan vận hành một các độc lập (hoặc bán độc lập) một cách tự động, trong khi tự chia sẻ các thông tin cho nhau (xem [[não bộ#Cấu trúc chính của não bộ]] để hiểu hơn)
-
-ví dụ như hemispheres trái và phải của não được tổ chức để thực thi các công năng tâm lhaanf khác nhau, mỗi bán cầu não lại có kinh nghiêm riêng của nó (thông thường bán cầu não phải đảm nhận chức năng nói) 

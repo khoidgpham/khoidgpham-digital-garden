@@ -1,1 +1,0 @@
-Karen Horney (1885-1952), nhà tâm lý học Mỹ, dựa vào định hướng giá trị trong quan hệ người-người, chia ra 3 kiểu nhân cách: kiểu người nhường nhịn, bị áp đảo; kiểu người công kích mạnh mẽ; và kiểu người xa lánh lãnh lùng

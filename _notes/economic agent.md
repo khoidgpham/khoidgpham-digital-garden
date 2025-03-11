@@ -1,1 +1,0 @@
-economic agent có thể là một con người, một hộ gia đình, hoặc một công ty/ tổ chức

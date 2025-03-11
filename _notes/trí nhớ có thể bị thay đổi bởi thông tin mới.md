@@ -1,2 +1,0 @@
-# Trí nhớ có thể bị thay đổi bởi thông tin mới
-Mỗi lần truy xuất một ký ức, nó trở nên dễ bị thay đổi bởi thông tin mới - hiện tượng gọi là "tái củng cố trí nhớ". Đây là lý do tại sao các nhân chứng có thể vô tình thay đổi lời khai sau khi tiếp xúc với thông tin mới về một sự kiện, hoặc tại sao những câu chuyện cá nhân thường thay đổi theo thời gian mỗi khi được kể lại. Nghiên cứu của Elizabeth Loftus đã chứng minh rằng chỉ cần thay đổi một từ trong cách đặt câu hỏi cũng có thể thay đổi trí nhớ về một sự kiện.

@@ -1,2 +1,0 @@
-Khác với máy ghi âm hay camera, trí nhớ con người ==không lưu trữ thông tin một cách nguyên vẹn==. 
-Mỗi khi chúng ta nhớ lại một sự kiện, chúng ta thực sự đang tái tạo nó dựa trên những mảnh thông tin còn lưu giữ. Quá trình này khiến ==trí nhớ dễ bị thay đổi theo thời gian==. Khi chúng ta nhớ lại một ký ức, não bộ tái kích hoạt các tế bào thần kinh từng hoạt động khi sự kiện xảy ra, nhưng không nhất thiết theo cùng một cách chính xác.

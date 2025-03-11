@@ -1,1 +1,0 @@
-Murakami tôi nói gì hi nói về việc chạy bộ
